@@ -1,0 +1,18 @@
+{
+  "_id" : ObjectId("5341d4f63df51ea25340beb0"),
+  "name" : "denver 1",
+  "region" : "colorado",
+  "path" : {
+    "type" : "LineString",
+    "coordinates" : [
+      [
+        -104.98738199472427,
+        39.74891813699216
+      ],
+      [
+        -104.98747318983078,
+        39.71835121931252
+      ]
+    ]
+  }
+}
